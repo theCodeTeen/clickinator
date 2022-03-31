@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clickinator/static/css/main.a67bac01.css",
+    "main.js": "/clickinator/static/js/main.8f14b955.js",
+    "static/media/clickinator__bg.png": "/clickinator/static/media/clickinator__bg.64c829757a04487c08b4.png",
+    "static/media/GameEnd.mp3": "/clickinator/static/media/GameEnd.185cc335959117540cc4.mp3",
+    "static/media/ClickEdit.mp3": "/clickinator/static/media/ClickEdit.ab365a9d188bca2401d1.mp3",
+    "index.html": "/clickinator/index.html",
+    "main.a67bac01.css.map": "/clickinator/static/css/main.a67bac01.css.map",
+    "main.8f14b955.js.map": "/clickinator/static/js/main.8f14b955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67bac01.css",
+    "static/js/main.8f14b955.js"
+  ]
+}
